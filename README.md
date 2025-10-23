@@ -2,4 +2,4 @@
 \
 [LinkedIn](https://www.linkedin.com/in/braeden-mcgrath)\
 \
-[Handshake]([https://app.joinhandshake.com/profiles/braeden-mcgrath])
+[Handshake](https://app.joinhandshake.com/profiles/braeden-mcgrath)
